@@ -1,2 +1,2 @@
-# PhotoGallery-Android
-# PhotoGallery-Android
+# PhotoGallery
+
